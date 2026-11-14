@@ -1,5 +1,7 @@
 # music-snob
 
+**Status:** Phase 0 — setup complete.
+
 Bite-sized music criticism for eclectic listeners.
 
 **music-snob** is a mobile-first web app for short, opinionated reviews of records across every genre: free jazz next to footwork, drone next to K-pop, field recordings next to hyperpop. It takes its cues from the long-form seriousness of *Pitchfork* and *The Wire* and fits that voice into something you can read while waiting for a train.
